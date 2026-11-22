@@ -1,0 +1,9 @@
+# Dataset (about 1 GB). The notebook downloads it by itself when data/pathmnist_64.npz is missing.
+data/
+
+# Checkpoints and temporary files
+*.pt
+*.pth
+__pycache__/
+.ipynb_checkpoints/
+.venv/
